@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BHWWI9FaBknI0hWWTlCxBNA6X7bLAhj/f3eO6K5iYNO/qaeYowC7n5RokezRenRuDl9NKtjIm48GDgC23wVcgw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\PampaDevs\\Internal\\libraries\\PampaDevs.BuildingBlocks.Common\\src\\PampaDevs.BuildingBlocks.Common\\PampaDevs.BuildingBlocks.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felipe\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
